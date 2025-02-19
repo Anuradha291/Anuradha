@@ -1,2 +1,3 @@
 # Anuradha
-CS Project for Groip 6
+CS Project for Group 6
+Added Assignment 2 as my previous exercise
